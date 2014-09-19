@@ -23,7 +23,7 @@ Several interesting applications are implemented under the ActivityNet framework
 * **Next Activity:** Predict the activity a user most likely to do after an activity.
 
 ####System Illustration
-System Applications can be illustrated in this combined Screenshot from real online website:
+System applications can be illustrated in this combined Screenshot from real online website:
 
 ![](http://github.com/sherlockyang/actnetdemo/raw/master/materials/demo.jpg)
 
